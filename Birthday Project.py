@@ -1,4 +1,3 @@
-
 import calendar as cl
 
 a = input("What is your year of birth?\n")
