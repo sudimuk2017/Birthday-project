@@ -1,6 +1,5 @@
 import calendar as cl
 
-
 a = input("What is your year of birth?\n")
 b = input("Enter your month of birth:\nFor January enter 1\n    February    2\n    March       3\n    April       4\n    May         5\n    June        6\n    July        7\n    August      8\n    September   9\n    October    10\n    November   11\n    December   12\n")
 c = input("Enter the date on which you were born(1-30)\n")
